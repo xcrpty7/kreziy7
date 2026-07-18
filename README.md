@@ -2,11 +2,11 @@
 
 ### `> whoami`
 
-# **Otabek G'ayratov**
+# **xcrpty7**
 
-#### **Full-Stack Developer · 15 y/o · Tashkent, UZ 🇺🇿**
+#### **Full-Stack Developer · Tashkent, UZ 🇺🇿**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer;Building+Things+That+Work;15+Years+Old+But+Write+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer;Building+Production+Apps;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Flutter)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,17 +15,15 @@
 ### `> cat about.md`
 
 ```yaml
-name: Otabek G'ayratov (xcrpty7)
-age: 15
-location: Tashkent, Uzbekistan
-education: Private Technical School (10-11 grades)
+name: xcrpty7
 role: Full-Stack Developer
-status: Building · Learning · Shipping
+location: Tashkent, Uzbekistan 🇺🇿
+status: Building · Shipping · Learning
+os: Arch Linux + Hyprland
+editor: Neovim / VS Code
 ```
 
-**I build real products, not tutorials.**
-
-At 15, I've shipped **production applications** used by real businesses — payment systems (Payme integration), admin dashboards, Telegram bots, and full-stack platforms. I don't do "Hello World" — I do deployments, databases, auth, and CI/CD.
+I build **real products**, not tutorials. Production apps with auth, payments (Payme), databases, admin panels, Telegram bots, and CI/CD. Deployed and used by real businesses.
 
 ---
 
@@ -39,26 +37,54 @@ At 15, I've shipped **production applications** used by real businesses — paym
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 #### **Database & Cloud**
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-#### **Tools**
+#### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### **Game Dev & Mobile**
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 </div>
+
+---
+
+### `> cat what-i-do.md`
+
+```bash
+# What I build:
+├── 🌐 Full-stack web apps      → React/Next.js + Supabase/PostgreSQL
+├── 💳 Payment integrations      → Payme (paycom.uz) merchant API + fiscal receipts
+├── 🤖 Telegram bots             → aiogram 3 + Supabase + XLSX catalogs
+├── 📱 Mobile apps               → Flutter Cupertino (iOS-style)
+├── 🎮 Games                     → Godot 4 (2D & 3D action games)
+├── 🖥️ Desktop apps              → Kotlin + JavaFX
+├── 🔧 Admin dashboards          → Next.js 16 + Supabase RLS + role-based auth
+├── 🚀 CI/CD pipelines           → GitHub Actions + Docker + Vercel + Render
+└── 📊 E-commerce platforms      → Full checkout, cart, inventory, admin
+```
 
 ---
 
@@ -71,7 +97,7 @@ At 15, I've shipped **production applications** used by real businesses — paym
 | **Podshipnik Bot** | aiogram 3 · Supabase | Telegram catalog bot for EURO Подшипник |
 | **Podshipnik Admin** | Next.js 16 · Supabase | Admin dashboard + courier PWA |
 | **My-Comp** | Node.js · Supabase · React | Computer shop platform (3 repos) |
-| **Savdo-E** | Express · MongoDB · React | E-commerce platform |
+| **Savdo-E** | Express · MongoDB · React | E-commerce with Payme payments |
 | **Souls2D / Souls3D** | Godot 4 · GDScript | Action games (2D & 3D) |
 | **xcrpty7 Launcher** | Kotlin · JavaFX | Minecraft launcher |
 | **xcrpty7 Mobile** | Flutter · Cupertino | Portfolio mobile app |
@@ -84,9 +110,9 @@ At 15, I've shipped **production applications** used by real businesses — paym
 <div align="center">
 
 ```
-        .--.        Otabek G'ayratov @ xcrpty7
+        .--.        xcrpty7
        |o_o |       ─────────────────────────────
-       |:_/ |       Age:      15
+       |:_/ |       Role:     Full-Stack Developer
       //   \ \      Location: Tashkent, UZ 🇺🇿
      (|     | )     Editor:   Neovim / VS Code
     /'\_   _/`\     Shell:    zsh + Hyprland
