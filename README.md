@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+██╗  ██╗ █████╗ ███████╗██╗         ██╗   ██╗ ██████╗ ███████╗███████╗
+██║  ██║██╔══██╗██╔════╝██║         ██║   ██║██╔═══██╗██╔════╝██╔════╝
+███████║███████║█████╗  ██║         ██║   ██║██║   ██║███████╗███████╗
+██╔══██║██╔══██║██╔══╝  ██║         ╚██╗ ██╔╝██║   ██║╚════██║╚════██║
+██║  ██║██║  ██║███████╗███████╗    ╚████╔╝ ╚██████╔╝███████║███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═══╝   ╚═════╝ ╚══════╝╚══════╝
 ```
 
 </div>
@@ -45,17 +45,19 @@ I build **real products**, not tutorials. Production apps with auth, payments, d
 
 <div align="center">
 
-## `⚡ Tech Stack`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20emojis/%E2%9A%A1.svg" alt="⚡" width="25" height="25" /> **XCRPTY7** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20emojis/%E2%9A%A1.svg" alt="⚡" width="25" height="25" />
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="96">
+<td align="center">
 
-**Frontend**
-
-<br/>
+```
+┌─────────────────────────────┐
+│        ▓ FRONTEND ▓         │
+└─────────────────────────────┘
+```
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -63,39 +65,49 @@ I build **real products**, not tutorials. Production apps with auth, payments, d
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 </td>
-<td align="center" width="96">
+<td align="center">
 
-**Backend**
-
-<br/>
+```
+┌─────────────────────────────┐
+│        ▓ BACKEND ▓          │
+└─────────────────────────────┘
+```
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </td>
-<td align="center" width="96">
+<td align="center">
 
-**Database**
-
-<br/>
+```
+┌─────────────────────────────┐
+│       ▓ DATABASE ▓          │
+└─────────────────────────────┘
+```
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 </td>
-<td align="center" width="96">
+<td align="center">
 
-**DevOps**
-
-<br/>
+```
+┌─────────────────────────────┐
+│        ▓ DEVOPS ▓           │
+└─────────────────────────────┘
+```
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -105,17 +117,20 @@ I build **real products**, not tutorials. Production apps with auth, payments, d
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </td>
-<td align="center" width="96">
+<td align="center">
 
-**Mobile & Game Dev**
-
-<br/>
+```
+┌─────────────────────────────┐
+│    ▓ MOBILE & GAMES ▓       │
+└─────────────────────────────┘
+```
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
 </tr>
@@ -125,7 +140,7 @@ I build **real products**, not tutorials. Production apps with auth, payments, d
 
 <div align="center">
 
-## `🛠️ What I Build`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/🛠%EF%B8%8F.svg" alt="🛠️" width="25" height="25" /> **What I Build** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/🛠%EF%B8%8F.svg" alt="🛠️" width="25" height="25" />
 
 </div>
 
@@ -146,18 +161,18 @@ xcrpty7@arch ~/projects
 
 <div align="center">
 
-## `📊 GitHub Analytics`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/📊.svg" alt="📊" width="25" height="25" /> **GitHub Analytics** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/📊.svg" alt="📊" width="25" height="25" />
 
 </div>
 
 <table align="center">
 <tr>
-<td>
+<td width="60%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcrpty7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
 </td>
-<td>
+<td width="40%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrpty7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2EA043&text_color=c9d1d9&langs_count=8)
 
@@ -171,56 +186,23 @@ xcrpty7@arch ~/projects
 
 <div align="center">
 
-## `🏆 Featured Projects`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.svg" alt="🧑‍💻" width="25" height="25" /> **GitHub Trophies** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.svg" alt="🧑‍💻" width="25" height="25" />
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-#### **Topex Texnikumi**
-`Express` `MongoDB` `React`
-Full school platform with admin panel
-
-#### **Topex Core**
-`NestJS` `Prisma` `PostgreSQL` `Next.js`
-Enterprise-grade backend + CMS
-
-#### **Podshipnik Bot**
-`aiogram 3` `Supabase`
-Telegram catalog bot for EURO Подшипник
-
-</td>
-<td width="50%">
-
-#### **Podshipnik Admin**
-`Next.js 16` `Supabase` `RLS`
-Admin dashboard + courier PWA
-
-#### **Savdo-E**
-`Express` `MongoDB` `React`
-E-commerce with Payme payments
-
-#### **Souls2D / Souls3D**
-`Godot 4` `GDScript`
-Action games (2D & 3D)
-
-</td>
-</tr>
-</table>
+![trophy](https://github-profile-trophy.vercel.app/?username=xcrpty7&theme=chartreuse&no-frame=true&column=7&margin-w=15&no-bg=true)
 
 ---
 
 <div align="center">
 
 ```
- ╔═══════════════════════════════════════╗
- ║                                       ║
- ║   "I don't write code.               ║
- ║    I ship products."                  ║
- ║                                       ║
- ╚═══════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════╗
+ ║                                               ║
+ ║   "I don't write code.                       ║
+ ║    I ship products."                          ║
+ ║                                               ║
+ ╚═══════════════════════════════════════════════╝
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-xcrpty7-181717?style=for-the-badge&logo=github)](https://github.com/xcrpty7)
